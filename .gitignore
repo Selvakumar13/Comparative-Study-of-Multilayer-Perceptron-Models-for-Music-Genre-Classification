@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
+
+# Data / models (don’t commit by default)
+preprocessed_data/
+Model_weights/
+*.pth
+*.pkl
+*.pt
+
+# Virtual env
+.venv/
+venv/
+env/
